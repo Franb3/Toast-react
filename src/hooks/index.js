@@ -1,2 +1,2 @@
-export * from './Portal';
-export * from './AutoClose';
+export * from './useToastPortal';
+export * from './useToastAutoClose';
